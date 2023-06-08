@@ -1,0 +1,22 @@
+header {
+    
+    color: white;
+    background-color: #000080; 
+    text-align: end;
+    height: 70px;
+}
+h1{
+    text-align: center;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#subCabecera{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background-color:#CCCCCC;
+}
