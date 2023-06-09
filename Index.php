@@ -52,12 +52,18 @@
         echo "<td>" . $row['telefono'] . "</td>";
         echo "<td>" . $row['localidad'] . "</td>";
         echo "<td>";
-        echo "<a href='actualizar.php?id=" . $row['id'] . "'>Actualizar</a>";
+        echo "<a href='Actualizar.php?id=" . $row['id'] . "'>Actualizar |</a>";
         echo "<a href='eliminar.php?id=" . $row['id'] . "'>Eliminar</a>";
         echo "</td>";
         echo "</tr>";
     }
     echo "</table>";
+
+
+
+
+
+
     ?>
 </body>
 
