@@ -1,5 +1,5 @@
 
-  <?php
+<?php
   require_once("dbAcces.php");
   
   if (isset($_GET['id'])) {

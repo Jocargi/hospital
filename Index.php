@@ -33,7 +33,7 @@
     echo "<th>apellido1</th>";
     echo "<th>apellido2</th>";
     echo "<th>telefono</th>";
-    echo "<th>fecha_nacimiento</th>";
+    echo "<th>localidad</th>";
     echo "<th>Acciones</th>";
   
   
