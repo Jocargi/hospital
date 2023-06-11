@@ -36,7 +36,7 @@
             <?php
             require_once("dbAcces.php"); // Archivo de acceso a la base de datos
 
-            // Obtener los valores de registros por página y página actual (si se envían por POST)
+            // Obtener los valores de registros por página 
             $registrosPagina = isset($_POST['registros_pagina']) ? (int)$_POST['registros_pagina'] : 10;
             $pagina = isset($_POST['pagina']) ? (int)$_POST['pagina'] : 1;
 
