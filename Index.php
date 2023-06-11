@@ -6,14 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Index</title>
-    <link rel="stylesheet" href="index.css"> <!-- Archivo CSS externo -->
+    <link rel="stylesheet" href="index.css"> 
 </head>
 
 <body>
     <header>
         <h1>Gestión de Hospital</h1>
         <div>
-            <a href="" id="subCabecera">Agregar</a> <!-- Enlace para agregar -->
+            <a href="CrearPacientes.php" id="subCabecera">Agregar</a> 
         </div>
     </header>
 
